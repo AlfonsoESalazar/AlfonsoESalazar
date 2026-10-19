@@ -13,7 +13,7 @@ My long-term goal is **mechatronics and robotics**, and I'm getting there throug
 | Play It Safe: Manage Security Risks | Google (Cybersecurity) | Oct 2025 |
 | Foundations of Cybersecurity | Google (Cybersecurity) | Sep 2025 |
 | HTML, CSS, and JavaScript for Web Developers | Johns Hopkins University | Sep 2025 |
-| Supply Chain Management | Rutgers University | Jul 2022 |
+| Supply Chain Logistics | Rutgers University | Jul 2022 |
 ## Projects
 - [100DaysOfCode-Python](https://github.com/AlfonsoESalazar/100DaysOfCode-Python-Alfonso_Salazar): my daily Python log
 - [Online_Resume](https://github.com/AlfonsoESalazar/Online_Resume): a fun resume built in HTML
