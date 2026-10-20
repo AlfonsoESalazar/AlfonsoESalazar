@@ -2,7 +2,7 @@
 I'm teaching myself to code in public, one day (and one bug) at a time, from Reno, NV.
 My long-term goal is **mechatronics and robotics**, and I'm getting there through certificates and small, real projects.
 ## What I'm learning
-- **Python**: 100 Days of Code, currently on **Day 37**
+- **Python**: 100 Days of Code, currently on **Day 5**
 - **HTML / CSS / JavaScript**: full-stack bootcamp course, currently in **Section 9**
 - **AI prompting**: Google AI certificate program, **4 of 8 courses done**, Course 5 in progress
 - **freeCodeCamp**: ~430 challenges completed so far (no certification yet, working on it)
